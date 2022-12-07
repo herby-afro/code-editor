@@ -7,13 +7,11 @@ Un sencillo editor de texto para utilizar como playground  en el navegador
   - [Caracteristics](#caracteristics)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [Process](#process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [What more?](#what-more)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -33,6 +31,7 @@ You can be able to:
 ### Screenshot
 
 ![Descktop view](./screenshot.png)
+
 ![Mobile view](./mobile1.PNG)
 ![Mobile view 2](./mobile2.PNG)
 
@@ -40,8 +39,7 @@ You can be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [herby-afro](https://herbyafro.great-site.net)
+- Live Site URL: [herby-afro](https://herbyafro.great-site.net/code-editor)
 
 ## Process
 
@@ -70,6 +68,9 @@ h1 {
   color: blue;
 }
 ```
+
+Or some js...
+
 ```js
 const actualizar = () => {
   const texto_ingresado = document.getElementById("texto_ingresado");
@@ -113,6 +114,6 @@ Also you can use the hml theme to have more options like JS files
 
 ## Author
 
-- Website - [Herby](https://herbyafro.great-sie.epizy)
+- Website - [Herby](https://herbyafro.great-site.epizy)
 - Twitter - [@Estriplet3](https://www.twitter.com/Estriplet3)
 
