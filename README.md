@@ -39,7 +39,7 @@ You can be able to:
 
 ### Links
 
-- Live Site URL: [herby-afro](https://herbyafro.great-site.net/code-editor)
+- Live Site URL: [herby-afro](https://herbyafro.great-site.net/work/codeEditor/)
 
 ## Process
 
